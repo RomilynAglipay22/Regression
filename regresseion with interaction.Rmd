@@ -1,0 +1,9 @@
+---
+title: "Regression with interaction"
+output: html_notebook
+---
+```{r}
+install.packages()
+library(caret)
+```
+

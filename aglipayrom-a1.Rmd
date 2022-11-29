@@ -1,0 +1,18 @@
+---
+title: "ASsignment, Hello Quarto video reflection"
+author: Romilyn C. Aglipay 
+date: "2022-11-22"
+output: pdf_document
+---
+
+## ASSIGNMENT
+
+1.*What package they are talking about*
+
+2.*Why there is a need to shift from R markdown to the said package?*
+
+3.*What inspired/sparked the said shift?*
+
+4.*Are you up to the challenge of the said shift; learning it and applying it in you future career Math teachers?*
+
+5.*What cool feature in the package did you like best? Please discuss. Thanks*
